@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there! 👋
+          	
+ I'm 20 years old student in Data Science field im passionate about turning data into insights. I enjoy exploring new technologies and building projects that combine creativity and logic. I love learning new skills and challenging myself to solve interesting problems.
 
-<!--
-**Pitcha21/Pitcha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Skills
 
-Here are some ideas to get you started:
+Python – for data analysis, automation, and small projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SQL – for querying and managing databases
+
+HTML & CSS – for building web projects and front-end layouts
+
+🎮 Fun Facts
+
+-I love gaming! I play Rust even though I’m not sure why I enjoy it 😅
+-Huge fan of Souls games, I love the challenge and strategy they offer
+-I enjoy solving puzzles and experimenting with coding for fun
+-I enjoy breaking my PC for fun (don’t worry, I usually fix it 😎)
+
+📫 Connect with Me
+Email: gattaouioussama@gmail.com
+GitHub: https://github.com/Pitcha21
