@@ -1,22 +1,27 @@
 Hi there! 👋
-          	
- I'm 20 years old student in Data Science field im passionate about turning data into insights. I enjoy exploring new technologies and building projects that combine creativity and logic. I love learning new skills and challenging myself to solve interesting problems.
 
-💻 Skills
+I'm Oussama Gattaoui, a Data Science engineering student (State Engineer track) at ENSAM Rabat, Morocco.  
+I'm super passionate about turning messy data into clear insights, automating boring tasks, and occasionally playing cybersecurity detective. I love building things that actually solve problems — whether it's a slick desktop app or a system that blocks hackers.
 
-Python – for data analysis, automation, and small projects
+💻 Skills  
+- **Python** – my main weapon (Pandas, NumPy, Matplotlib, PyQt5 for GUIs, automation, data cleaning & EDA)  
+- **SQL** – advanced queries, databases, the works (HackerRank Advanced certified)  
+- **Linux & Security** – Bash, iptables, ipset, TCP/IP, building IDS/IPS systems  
+- **Other** – C / C++, basic HTML & CSS, Git, data visualization, preprocessing pipelines  
+🎓 Currently  
+Data Science student at École Nationale Supérieure d’Arts et Métiers (ENSAM) Rabat — 2023 → 2028  
+Key courses: Data Analysis, Probability & Statistics, Databases (SQL), Algorithms, Linux, Computer Networks, Cybersecurity basics
 
-SQL – for querying and managing databases
+🎮 Fun Facts  
+- I love gaming! I play Rust even though I’m not sure why I enjoy it 😅  
+- Huge fan of Souls games — the challenge and strategy are unbeatable  
+- I enjoy solving puzzles and experimenting with code for fun  
+- I sometimes enjoy "breaking" my PC for fun (don’t worry, I usually fix it 😎)  
 
-HTML & CSS – for building web projects and front-end layouts
+📫 Connect with Me  
+- Email: gattaouioussama@gmail.com  
+- GitHub: https://github.com/Pitcha21
+- Portfolio: https://pitcha21.github.io/portfolio/
+- Open to data science / data analysis internships — feel free to reach out! 🚀  
 
-🎮 Fun Facts
-
--I love gaming! I play Rust even though I’m not sure why I enjoy it 😅
--Huge fan of Souls games, I love the challenge and strategy they offer
--I enjoy solving puzzles and experimenting with coding for fun
--I enjoy breaking my PC for fun (don’t worry, I usually fix it 😎)
-
-📫 Connect with Me
-Email: gattaouioussama@gmail.com
-GitHub: https://github.com/Pitcha21
+Thanks for stopping by! Whether it's data, security, or just a good Souls boss fight, let's chat. 😄
