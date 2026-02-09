@@ -20,8 +20,8 @@ Key courses: Data Analysis, Probability & Statistics, Databases (SQL), Algorithm
 
 📫 Connect with Me  
 - Email: gattaouioussama@gmail.com  
-- GitHub: https://github.com/Pitcha21
-- Portfolio: https://pitcha21.github.io/portfolio/
+- GitHub: https://github.com/OUSSAMA-GATTAOUI
+- Portfolio: https://github.com/OUSSAMA-GATTAOUI/portfolio
 - Open to data science / data analysis internships — feel free to reach out! 🚀  
 
 Thanks for stopping by! Whether it's data, security, or just a good Souls boss fight, let's chat. 😄
